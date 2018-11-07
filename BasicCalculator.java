@@ -39,4 +39,4 @@ public class BasicCalculator
           System.out.println("Result of Divide is "+Divide);
           return Divide;
         }
-    }
+}
